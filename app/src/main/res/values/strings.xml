@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spotified</string>
+    <string name="category_label">Spotified</string>
+    <string name="btn_label">Pesquisar</string>
+    <string name="progress_title_artist_search">Aguarde</string>
+    <string name="progress_message_artist_search">Buscando Artista...</string>
+</resources>
